@@ -1,0 +1,12 @@
+Summary in Points:
+
+Company: Travel.Com
+Current Offering: 5 package types (Basic, Standard, Deluxe, Super Deluxe, King)
+Current Issue: Only 18% of customers purchased packages last year; high marketing costs due to random customer targeting
+New Product: Wellness Tourism Package (focuses on enhancing well-being and healthy lifestyles)
+Goal: Use existing customer data to:
+Provide marketing and policy recommendations
+Build a predictive model to identify potential customers likely to purchase the Wellness Tourism Package
+Aim for GitHub Repository and LinkedIn Project Description:
+
+Aim: Develop a data-driven solution to optimize marketing strategies and predict potential customers for Travel.Com's new Wellness Tourism Package by analyzing existing customer data and building a machine learning model for better targeting.
